@@ -2,8 +2,10 @@ Test of git delete
 or add
 
 Test of Git add (new text below)
-putting in new text or removing it
+or of git add
+
+Test of Git add (new text below)
 
 Test of git modify
-adjust this line of text by adding something
-for future, test of modify by removing. For now just add
+adjust this line of text by adding something and something more like this
+for future, test of modify by removing
