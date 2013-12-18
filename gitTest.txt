@@ -1,0 +1,9 @@
+Test of git delete
+
+
+Test of Git add (new text below)
+putting in new text
+
+Test of git modify
+adjust this line of text by adding something
+for future, test of modify by removing. For now just add
