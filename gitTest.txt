@@ -1,8 +1,8 @@
 Test of git delete
-
+or add
 
 Test of Git add (new text below)
-putting in new text
+putting in new text or removing it
 
 Test of git modify
 adjust this line of text by adding something
